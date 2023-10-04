@@ -24,9 +24,9 @@
 
 #flex-section2 li {
 	/* flex: 1;
-	text-align: none;
+	/* text-align: none; */
 	background-color: #C0C0C0;
-	/* padding: 1rem; */
+	padding: 1rem;
 	border: 5px solid #4b4a4a; 
 	list-style: none;
 	flex-grow: 1;
